@@ -21,3 +21,47 @@ webpack compiled successfully
 Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/.s.PGSQL.5432'
 Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-git-5c7ec65e33.sock'
 Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-git-9b05060ae2.sock'
+Compiling...
+Failed to compile.
+
+Syntax error: /tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/components/TicTacToe.css Unclosed block (9:1)
+   7 | }
+   8 | 
+>  9 | .game-status {
+     | ^
+  10 |
+ERROR in ./src/components/TicTacToe.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/components/TicTacToe.css)
+Module build failed (from ./node_modules/postcss-loader/dist/cjs.js):
+SyntaxError
+
+(9:1) /tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/components/TicTacToe.css Unclosed block
+
+   7 | }
+   8 | 
+>  9 | .game-status {
+     | ^
+  10 |
+
+webpack compiled with 1 error
+Compiling...
+Failed to compile.
+
+Syntax error: /tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/components/TicTacToe.css Unclosed block (9:1)
+   7 | }
+   8 | 
+>  9 | .game-status {
+     | ^
+  10 |
+ERROR in ./src/components/TicTacToe.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/components/TicTacToe.css)
+Module build failed (from ./node_modules/postcss-loader/dist/cjs.js):
+SyntaxError
+
+(9:1) /tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/components/TicTacToe.css Unclosed block
+
+   7 | }
+   8 | 
+>  9 | .game-status {
+     | ^
+  10 |
+
+webpack compiled with 1 error
