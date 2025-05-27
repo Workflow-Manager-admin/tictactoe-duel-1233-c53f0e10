@@ -2,9 +2,9 @@
 > react-kavia@0.1.0 start
 > react-scripts start
 
-(node:340) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(node:972) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-(node:340) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(node:972) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
 Starting the development server...
 
 Compiled successfully!
@@ -21,53 +21,3 @@ webpack compiled successfully
 Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/.s.PGSQL.5432'
 Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-git-5c7ec65e33.sock'
 Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-git-9b05060ae2.sock'
-Compiling...
-Failed to compile.
-
-Syntax error: /tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/components/TicTacToe.css Unclosed block (9:1)
-   7 | }
-   8 | 
->  9 | .game-status {
-     | ^
-  10 |
-ERROR in ./src/components/TicTacToe.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/components/TicTacToe.css)
-Module build failed (from ./node_modules/postcss-loader/dist/cjs.js):
-SyntaxError
-
-(9:1) /tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/components/TicTacToe.css Unclosed block
-
-   7 | }
-   8 | 
->  9 | .game-status {
-     | ^
-  10 |
-
-webpack compiled with 1 error
-Compiling...
-Failed to compile.
-
-Syntax error: /tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/components/TicTacToe.css Unclosed block (9:1)
-   7 | }
-   8 | 
->  9 | .game-status {
-     | ^
-  10 |
-ERROR in ./src/components/TicTacToe.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/components/TicTacToe.css)
-Module build failed (from ./node_modules/postcss-loader/dist/cjs.js):
-SyntaxError
-
-(9:1) /tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/components/TicTacToe.css Unclosed block
-
-   7 | }
-   8 | 
->  9 | .game-status {
-     | ^
-  10 |
-
-webpack compiled with 1 error
-Compiling...
-Compiled successfully!
-webpack compiled successfully
-Compiling...
-Compiled successfully!
-webpack compiled successfully
