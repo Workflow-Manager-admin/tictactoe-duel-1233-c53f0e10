@@ -2,7 +2,7 @@
     "top_n_overall": [
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/package.json",
-            "count": 79
+            "count": 81
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/components/TicTacToe.css",
@@ -84,7 +84,7 @@
     "top_n_last_10_min_accessed": [
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/package.json",
-            "count": 79
+            "count": 81
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/App.css",
