@@ -2,22 +2,26 @@
     "top_n_overall": [
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/package.json",
-            "count": 84
+            "count": 88
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/components/TicTacToe.css",
-            "count": 58
+            "count": 59
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/App.css",
-            "count": 39
+            "count": 40
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/App.js",
-            "count": 39
+            "count": 40
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/public/favicon.ico",
+            "count": 32
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/public/index.html",
             "count": 32
         },
         {
@@ -37,16 +41,12 @@
             "count": 32
         },
         {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/public/index.html",
-            "count": 31
-        },
-        {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/index.css",
-            "count": 31
+            "count": 32
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/index.js",
-            "count": 31
+            "count": 32
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/README.md",
@@ -74,7 +74,7 @@
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/components/TicTacToe.js",
-            "count": 28
+            "count": 29
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/react_server.log",
@@ -84,22 +84,26 @@
     "top_n_last_10_min_accessed": [
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/package.json",
-            "count": 84
+            "count": 88
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/App.css",
-            "count": 37
+            "count": 38
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/App.js",
-            "count": 37
+            "count": 38
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/components/TicTacToe.css",
-            "count": 33
+            "count": 34
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/public/favicon.ico",
+            "count": 32
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/public/index.html",
             "count": 32
         },
         {
@@ -119,16 +123,12 @@
             "count": 32
         },
         {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/public/index.html",
-            "count": 31
-        },
-        {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/index.css",
-            "count": 31
+            "count": 32
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/index.js",
-            "count": 31
+            "count": 32
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/README.md",
@@ -156,7 +156,7 @@
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/src/components/TicTacToe.js",
-            "count": 28
+            "count": 29
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-duel-1233-c53f0e10/tictactoe_duel/react_server.log",
